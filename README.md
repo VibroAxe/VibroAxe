@@ -21,4 +21,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [https://twitter.com/vibroaxe](Twitter)
 - 😄 Pronouns: He/Him
 
-![trophy](https://github-profile-trophy.vercel.app/?username=vibroaxe&column=3&margin-w=15&margin-h=15) ![VibroAxe's github stats](https://github-readme-stats.vercel.app/api?username=vibroaxe&show_icons=true&theme=light)
+![VibroAxe's github stats](https://github-readme-stats.vercel.app/api?username=vibroaxe&show_icons=true&theme=light)
+
+![trophy](https://github-profile-trophy.vercel.app/?username=vibroaxe&column=3&margin-w=15&margin-h=15)
+
+

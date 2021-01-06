@@ -15,7 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![trophy](https://github-profile-trophy.vercel.app/?use
-rname=vibroaxe&column=3&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+- 🔭 I’m currently working on [https://github.com/lancache.net](lancache.net)
+- 🤔 I’m looking for help with [https://github.com/uklans](uklans)
+- 💬 Ask me about Docker, Reverse Proxying, Lancache & LAN network management
+- 📫 How to reach me: [https://twitter.com/vibroaxe](Twitter)
+- 😄 Pronouns: He/Him
 
-[![VibroAxe's github stats](https://github-readme-stats.vercel.app/api?username=vibroaxe&show_icons=true&theme=dark)
+[![trophy](https://github-profile-trophy.vercel.app/?username=vibroaxe&column=3&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![VibroAxe's github stats](https://github-readme-stats.vercel.app/api?username=vibroaxe&show_icons=true&theme=light)

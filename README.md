@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on [https://github.com/lancache.net](lancache.net)
-- 🤔 I’m looking for help with [https://github.com/uklans](uklans)
+- 🔭 I’m currently working on [lancache.net](https://github.com/lancache.net)
+- 🤔 I’m looking for help with [uklans](https://github.com/uklans)
 - 💬 Ask me about Docker, Reverse Proxying, Lancache & LAN network management
-- 📫 How to reach me: [https://twitter.com/vibroaxe](Twitter)
+- 📫 How to reach me: [Twitter](https://twitter.com/vibroaxe)
 - 😄 Pronouns: He/Him
 
 ![VibroAxe's github stats](https://github-readme-stats.vercel.app/api?username=vibroaxe&show_icons=true&theme=light)

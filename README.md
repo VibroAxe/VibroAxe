@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on [lancache.net](https://github.com/lancache.net)
+- 🔭 I’m currently working on [lancache.net](https://github.com/lancachenet)
 - 🤔 I’m looking for help with [uklans](https://github.com/uklans)
 - 💬 Ask me about Docker, Reverse Proxying, Lancache & LAN network management
 - 📫 How to reach me: [Twitter](https://twitter.com/vibroaxe)
